@@ -69,9 +69,9 @@ public class AdMobAds extends CordovaPlugin implements IConnectivityChange {
     public static final String BANNER = "banner";
 
     private static final boolean CORDOVA_4 = Integer.valueOf(CordovaWebView.CORDOVA_VERSION.split("\\.")[0]) >= 4;
-    private static final String DEFAULT_AD_PUBLISHER_ID = "ca-app-pub-8440343014846849/3119840614";
-    private static final String DEFAULT_INTERSTITIAL_PUBLISHER_ID = "ca-app-pub-8440343014846849/4596573817";
-    private static final String DEFAULT_TAPPX_ID = "/120940746/Pub-2700-Android-8171";
+    private static final String DEFAULT_AD_PUBLISHER_ID = "ca-app-pub-9628391606553304/3693789548";
+    private static final String DEFAULT_INTERSTITIAL_PUBLISHER_ID = "ca-app-pub-9628391606553304/4193317149";
+    private static final String DEFAULT_TAPPX_ID = "Pub-41044-Android-2267";
 
     /* Cordova Actions. */
     private static final String ACTION_SET_OPTIONS = "setOptions";
